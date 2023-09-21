@@ -4,8 +4,8 @@ Este repositorio contiene ejemplos de microservicios implementados en diferentes
 
 ## Microservicios y Tecnologías Utilizadas
 
-1. **Microservicio Spring con Java 1.8 y JDK 11 en Alpine (No oficial)**
-   - Utiliza Spring y Java 1.8 con una imagen Alpine con JDK 11 no oficial.
+1. **Microservicio Spring con Java 8 y JDK 8 en Alpine**
+   - Utiliza Spring y Java 8 con una imagen Alpine con OpenJDK 8.
 
 2. **Microservicio Spring con Java 17 en Alpine Linux con JDK**
    - Emplea Spring y Java 17 con una imagen Alpine Linux con JDK instalado a través de la consola Ubuntu.
