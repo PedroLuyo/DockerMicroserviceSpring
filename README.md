@@ -16,6 +16,8 @@ Este repositorio contiene ejemplos de microservicios implementados en diferentes
 
 3. **Microservicio Python con imagen Python Alpine**
    - Se basa en Python utilizando una imagen Alpine de Python.
+   - **Instrucción:** ```docker build -t  microservices_python .```
+   - **Tamaño:** 66 MB aprox.
 
 4. **Microservicio Node con imagen Node Alpine**
    - Utiliza Node.js con una imagen Alpine de Node.
