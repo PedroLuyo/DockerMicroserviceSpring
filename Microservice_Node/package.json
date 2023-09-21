@@ -1,0 +1,14 @@
+{
+  "name": "microservice_node",
+  "version": "1.0.0",
+  "description": "Microservicio Node.js / Docker",
+  "main": "microservices.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PedroPL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
