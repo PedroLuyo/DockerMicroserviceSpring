@@ -11,6 +11,8 @@ Este repositorio contiene ejemplos de microservicios implementados en diferentes
 
 2. **Microservicio Spring con Java 17 en Alpine Linux con JDK**
    - Emplea Spring y Java 17 con una imagen Alpine Linux con JDK instalado a través de la consola Ubuntu.
+   - **Instrucción:** ```docker build -t microservices_java17 .```
+   - **Tamaño:** 96 MB aprox.
 
 3. **Microservicio Python con imagen Python Alpine**
    - Se basa en Python utilizando una imagen Alpine de Python.
