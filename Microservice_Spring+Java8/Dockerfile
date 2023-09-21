@@ -10,5 +10,5 @@ COPY target/spring-boot-docker.jar /app/
 # Exponemos el puerto 8080
 EXPOSE 8080
 
-# Comando para ejecutar la aplicación .jar
+# Ejecutamos el microservicio Spring al iniciar el contenedor
 CMD ["java", "-jar", "spring-boot-docker.jar"]
