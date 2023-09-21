@@ -10,8 +10,8 @@ Este repositorio contiene ejemplos de microservicios implementados en diferentes
    - **Tamaño:** 101 MB aprox.
    - **Offline:** Si
 
-2. **Microservicio Spring con Java 17 en Alpine Linux con JDK**
-   - Emplea Spring y Java 17 con una imagen Alpine Linux con JDK instalado a través de la consola Ubuntu.
+2. **Microservicio Spring con Java 17 en Ubuntu con JDK**
+   - Emplea Spring y Java 17 con una imagen Ubuntu con JDK instalado a través de la consola.
    - **Instrucción:** ```docker build -t microservices_java17 .```
    - **Tamaño:** 96 MB aprox.
    - **Offline:** No
