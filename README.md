@@ -1,6 +1,6 @@
 # Repositorio de Ejemplos de Microservicios con Docker
 
-Este repositorio contiene ejemplos de microservicios implementados en diferentes tecnologías utilizando Docker y a la vez con el objetivo de lograr el menor tamaño posible de la imagen.
+Este repositorio contiene ejemplos de microservicios implementados en diferentes tecnologías utilizando Docker y a la vez con un reto de lograr un tamaño de imagen menor a 200 MB.
 
 ## Microservicios y Tecnologías Utilizadas
 
