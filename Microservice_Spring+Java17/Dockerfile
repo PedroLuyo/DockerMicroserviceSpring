@@ -11,4 +11,4 @@ COPY target/spring-boot-docker-0.0.1-SNAPSHOT.jar /app/
 EXPOSE 8080
 
 # Ejecutamos el microservicio Spring al iniciar el contenedor y instalamos un jdk17 ligero
-CMD ["sh", "-c", "apt-get update && apt-get install -y openjdk-17-jre-headless && java -jar /app/microservicesdocker-0.0.1-SNAPSHOT.jar"]
+CMD ["sh", "-c", "apt-get update && apt-get install -y openjdk-17-jre-headless && java -jar /app/spring-boot-docker-0.0.1-SNAPSHOT.jar"]
