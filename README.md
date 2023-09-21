@@ -21,6 +21,8 @@ Este repositorio contiene ejemplos de microservicios implementados en diferentes
 
 4. **Microservicio Node con imagen Node Alpine**
    - Utiliza Node.js con una imagen Alpine de Node.
+   - **Instrucción:** ```docker build -t  microservices_node .```
+   - **Tamaño:** 183 MB aprox.
 
 ## Objetivo
 
